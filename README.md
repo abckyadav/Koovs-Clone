@@ -10,3 +10,12 @@ Suresh - Product page
 Ruby - display page
 Moin - Cart page
 Abhishek - Checkout and Footer
+
+
+Recording Link:   https://drive.google.com/file/d/1CD7ANQ9-mYvrqM1jz3BTF8pFhDNiHE5e/view?usp=sharing
+
+Deploy Link: https://koovs-clone-6ujuhqhy2-abckyadav.vercel.app
+
+Blog Link: https://sureshchowdary.hashnode.dev/creating-a-clone-of-koovscom-1
+
+
