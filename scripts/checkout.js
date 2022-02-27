@@ -22,8 +22,8 @@ applyBtn.addEventListener("click", function () {
   var input = document.getElementById("coupon-input").value;
 
   if (input == "masai30") {
-    
     discount = localStorage.getItem("sumtotal") * 0.3;
+    discount = Math.floor(discount);
     document.querySelector("#dis").textContent = `- ${discount}`;
     totalsum -= discount;
     document.querySelector("#net").textContent = "₹ " + (totalsum + addit);
@@ -32,6 +32,7 @@ applyBtn.addEventListener("click", function () {
     errortag.style.color = "green";
   } else if (input == "masai50") {
     discount = localStorage.getItem("sumtotal") * 0.5;
+    discount = Math.floor(discount);
     document.querySelector("#dis").textContent = `- ${discount}`;
     totalsum -= discount;
     document.querySelector("#net").textContent = "₹ " + (totalsum + addit);
