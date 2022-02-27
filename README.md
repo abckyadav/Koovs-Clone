@@ -4,7 +4,7 @@ We are a team of six members Chandan ,Monu, Abhishek, suresh, Ruby, Moin.
 
 Work divided in the following manner-
 
-Monu - Landing Page and Header
+Monu - Landing Page and Header  
 Chandan - Sign-in SignUp
 Suresh - Product page
 Ruby - display page
