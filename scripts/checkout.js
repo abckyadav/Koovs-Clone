@@ -16,7 +16,7 @@ document.querySelector("#gotoship").addEventListener("click", function () {
 var errortag = document.querySelector("#error");
 var applyBtn = document.getElementById("couponBtn");
 var discount = 0;
-var addit = 49;
+var addit = 99;
 
 applyBtn.addEventListener("click", function () {
   var input = document.getElementById("coupon-input").value;
